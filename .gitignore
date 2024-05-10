@@ -1,0 +1,4 @@
+.test-data
+.terraform
+*.tfstate
+*.tfstate.backup
